@@ -1,7 +1,7 @@
 /**
  * Author: Jagan Thammishetti
  * Description: Automated UI test verifying dropdown selection behavior
- *              using Selenium WebDriver.
+ *              Using Selenium WebDriver.
  */
 
 import org.junit.jupiter.api.*;
